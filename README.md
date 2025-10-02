@@ -1,2 +1,0 @@
-# prerogative
-school tools
